@@ -20,7 +20,11 @@
 
 - [图像阈值处理](https://gitee.com/lyhcyt_admin/visual_development/blob/master/%E5%9B%BE%E5%83%8F%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/7.%E5%9B%BE%E5%83%8F%E9%98%88%E5%80%BC%E5%A4%84%E7%90%86.ipynb)
 
+### 2.2 图像滤波与增强
 
+- [图像平滑]()
+
+- [图像锐化]()
 
 
 
