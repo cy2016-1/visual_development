@@ -30,6 +30,18 @@
 
 - [图像锐化](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E5%9B%BE%E5%83%8F%E6%BB%A4%E6%B3%A2%E4%B8%8E%E5%A2%9E%E5%BC%BA/2.%E5%9B%BE%E5%83%8F%E9%94%90%E5%8C%96.ipynb)
 
+### 2.4 图像形态学处理
+
+- [图像形态学处理](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%86/%E5%9B%BE%E5%83%8F%E5%BD%A2%E6%80%81%E5%AD%A6%E5%A4%84%E7%90%86.ipynb)
+
+
+### 2.5 图像特征
+
+- [角点检测](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E5%9B%BE%E5%83%8F%E7%89%B9%E5%BE%81/%E8%A7%92%E7%82%B9%E6%A3%80%E6%B5%8B.ipynb)
+
+- [边缘检测](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E5%9B%BE%E5%83%8F%E7%89%B9%E5%BE%81/%E8%BD%AE%E5%BB%93%E7%89%B9%E5%BE%81.ipynb)
+
+- [轮廓特征](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E5%9B%BE%E5%83%8F%E7%89%B9%E5%BE%81/%E8%BD%AE%E5%BB%93%E7%89%B9%E5%BE%81.ipynb)
 
 
 
