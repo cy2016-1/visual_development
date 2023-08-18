@@ -1,0 +1,8 @@
+./images/soo_007.jpg
+./images/soo_040.jpg
+./images/soo_010.jpg
+./images/soo_018.jpg
+./images/soo_041.jpg
+./images/soo_036.jpg
+./images/soo_027.jpg
+./images/soo_008.jpg

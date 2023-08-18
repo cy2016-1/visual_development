@@ -1,0 +1,5 @@
+plus_sign
+equal_sign
+division_sign
+minus_sign
+multiplication_sign

@@ -1,0 +1,12 @@
+toothbrush
+umbrella
+banana_peel
+broken_bones
+ketchup
+plastic_bottle
+storage_battery
+plate
+oral_liquid_bottle
+marker
+disposable_chopsticks
+cigarette_end

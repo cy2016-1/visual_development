@@ -1,0 +1,16 @@
+./images/card_065.jpg
+./images/card_076.jpg
+./images/card_022.jpg
+./images/card_066.jpg
+./images/card_028.jpg
+./images/card_060.jpg
+./images/card_072.jpg
+./images/card_044.jpg
+./images/card_036.jpg
+./images/card_023.jpg
+./images/card_055.jpg
+./images/card_080.jpg
+./images/card_039.jpg
+./images/card_057.jpg
+./images/card_062.jpg
+./images/card_078.jpg
