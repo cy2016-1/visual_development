@@ -1,0 +1,3 @@
+oryx_logo
+oryx_blue
+oryx_red
