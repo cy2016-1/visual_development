@@ -1,14 +1,28 @@
-import os
+import os 
 import random
-images = os.listdir('./images')  # 打开目录
-rate = 0.8  # 训练集的比例
+import cv2 as cv
+
+dir = "./red_oryx/"
+image_name = "oryx_red_"
+num = []
+light = 100
+ddd = 0
+
 train = open('train.txt', 'w')  # 打开文件
 val = open('val.txt', 'w')
-i = 0
-random.shuffle(images)  # 将图像列表打乱，提高数据的随机性
-for img in images:
-    if i < len(images)*rate:
-        train.write('./images/' + img+'\n')  # 写入文件
+
+while(len(num)<80):
+    index_num=random.randint(1,100)
+    if num.count(index_num) == 0:
+        num.append(index_num)
+
+for i in range(100):
+    if num.count(i) > 0:
+        train.write('./images/' + "logo"+str(i)+'\n')  # 写入文件
+        train.write('./images/' + "oryx_red"+str(i)+'\n')  # 写入文件
+        train.write('./images/' + "oryx_blue"+str(i)+'\n')  # 写入文件
     else:
-        val.write('./images/' + img+'\n')
-    i += 1
+        train.write('./images/' + "logo"+str(i)+'\n')  # 写入文件
+        train.write('./images/' + "oryx_red"+str(i)+'\n')  # 写入文件
+        train.write('./images/' + "oryx_blue"+str(i)+'\n')  # 写入文件
+    
