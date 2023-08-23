@@ -41,9 +41,4 @@ opencv-python视觉库的基础操作，及数字图像处理的实现。
 ### 6 相机标定和3D重建
 标题|简介
 ---|---
-[相机标定]()|了解相机标定的原因，及标定的原理，并对相机进行标定、畸变校正。
-
-
-
-
-
+[相机标定](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%92%8C3D%E9%87%8D%E5%BB%BA/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A.ipynb)|了解相机标定的原因，及标定的原理，并对相机进行标定、畸变校正。
