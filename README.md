@@ -42,3 +42,10 @@ opencv-python视觉库的基础操作，及数字图像处理的实现。
 标题|简介
 ---|---
 [相机标定](https://gitee.com/lyhcyt_admin/visual_development/blob/master/Opencv-python_Tutorials/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A%E5%92%8C3D%E9%87%8D%E5%BB%BA/%E7%9B%B8%E6%9C%BA%E6%A0%87%E5%AE%9A.ipynb)|了解相机标定的原因，及标定的原理，并对相机进行标定、畸变校正。
+
+## 目标检测与识别
+### 基于yolov5的目标检测
+标题|简介
+---|---
+[yolov5环境配置](https://gitee.com/lyhcyt_admin/visual_development/blob/master/object_detection/tutoriol/yolo%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.md)|配置pytorch环境，及yolov5项目的拉取
+[yolov5自训练模型](https://gitee.com/lyhcyt_admin/visual_development/blob/master/object_detection/tutoriol/yolov5%E8%87%AA%E8%AE%AD%E7%BB%83%E6%A8%A1%E5%9E%8B.ipynb)|将学习如何创建自己的数据集，然后训练自己的目标检测模型
