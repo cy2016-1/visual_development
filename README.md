@@ -1,7 +1,16 @@
-# 机器人视觉教程：
+# FOX机器人视觉教程：
 
-## 一、简介：
-实验环境为Ubuntu20.04，基于python视觉项目
+## 一、Fox机器人AI视觉平台
+
+fox机器人视觉平台配置了包括：
+- 四自由度机械手
+- Nvidia Jetson Nano GPU运算平台
+- 高清摄像头。
+
+场景搭建效果|场景概述
+--|--
+![](images/2023-08-29-15-29-37.png)|可以完成物块的检测、识别并抓取等任务。通过Nvidia Jetson Nano GPU运算平台，部署深度学习模型，实现AI控制。
+![](images/2023-08-29-15-46-21.png)|采用模块化设计，可以通过搭配运动底盘，及ros机器人系统。实现更多的场景部署。|
 
 ## 二、opencv-python基础
 opencv-python视觉库的基础操作，及数字图像处理的实现。
@@ -49,7 +58,6 @@ opencv-python视觉库的基础操作，及数字图像处理的实现。
 标题|简介
 ---|---
 [轮廓检测与识别](https://gitee.com/lyhcyt_admin/visual_development/blob/master/object_detection/tutoriol/%E8%BD%AE%E5%BB%93%E6%A3%80%E6%B5%8B%E4%B8%8E%E8%AF%86%E5%88%AB.ipynb)|字母标识的检测和识别项目，基于轮廓和轮廓矩实现
-
 
 
 ### 2 基于yolov5的目标检测
